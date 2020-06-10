@@ -1,0 +1,16 @@
+h1{
+    color : #40e0d0;
+    text-align: center;
+}
+h2, hr{
+    color : #40e0d0;
+}
+
+p, b{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img1{
+   margin-right:1000;
+}
